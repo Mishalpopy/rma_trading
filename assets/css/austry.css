@@ -4369,8 +4369,8 @@ ul {
 
 .main-slider-six .container {
   position: relative;
-  padding-top: 183px;
-  padding-bottom: 200px;
+  
+  padding-bottom: 400px;
   z-index: 30;
 }
 
